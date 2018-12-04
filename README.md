@@ -15,3 +15,5 @@ Além da interface gerada com um projeto Angular que foi integrado ao sistema.
 
 ### Visualização
 * Ver pasta capturas de tela
+
+### Victor Lima e Mello dos Santos
