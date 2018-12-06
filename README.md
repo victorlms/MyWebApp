@@ -1,4 +1,7 @@
 # Leia-me
+
+Os arquivos do projeto angular estão presentes no branch gh-pages
+
 # MyWebApp
 Esse projeto simula a um período acadêmico, onde três turmas possuem 20 alunos cada,
 que realizam três provas além de uma competição entre os 5 melhores.
